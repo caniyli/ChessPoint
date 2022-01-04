@@ -27,3 +27,5 @@ make
 ```
 ./ChessPoint <filename>
 ```
+
+Bu komutu çalıştırdıktan sonra istediğiniz dosyanın sonucu proje içerisine sonuçlar.txt olarak eklenecektir.
