@@ -5,7 +5,7 @@
 ### 1.1 Projeyi İndirme
 
 ```
-git clone "https://github.com/caniyli/ChessPoint.git"
+git clone https://github.com/caniyli/ChessPoint.git
 ```
 
 ### 1.2 Projeyi Derleme
